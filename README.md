@@ -1,6 +1,6 @@
 #  Hello there , :wave:
 ##  About me 
-I am **Hussein** , a Student of Computer and Communication Enginnering at the Lebanse University 
+I am **Hussein** , a Student of Computer and Communication Enginnering at the Lebanese University 
 
    :email: <a>Contact me</a>
    
